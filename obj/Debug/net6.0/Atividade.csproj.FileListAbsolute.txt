@@ -1,0 +1,15 @@
+D:\c-sharp\controle-clientes-csharp\bin\Debug\net6.0\Atividade.exe
+D:\c-sharp\controle-clientes-csharp\bin\Debug\net6.0\Atividade.deps.json
+D:\c-sharp\controle-clientes-csharp\bin\Debug\net6.0\Atividade.runtimeconfig.json
+D:\c-sharp\controle-clientes-csharp\bin\Debug\net6.0\Atividade.dll
+D:\c-sharp\controle-clientes-csharp\bin\Debug\net6.0\Atividade.pdb
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.csproj.AssemblyReference.cache
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.AssemblyInfoInputs.cache
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.AssemblyInfo.cs
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.csproj.CoreCompileInputs.cache
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.dll
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\refint\Atividade.dll
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.pdb
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\Atividade.genruntimeconfig.cache
+D:\c-sharp\controle-clientes-csharp\obj\Debug\net6.0\ref\Atividade.dll
